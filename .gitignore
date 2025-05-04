@@ -1,0 +1,11 @@
+*.pyc
+.vscode
+ROS/osr_bringup/config/*_mod.yaml
+*.sublime-project
+*.sublime-workspace
+.DS_Storebuild/
+install/
+log/
+*.pyc
+__pycache__/
+

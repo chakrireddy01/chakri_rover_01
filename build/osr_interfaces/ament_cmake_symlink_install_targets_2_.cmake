@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/chakrireddy1974/osr-rover-code/build/osr_interfaces/rosidl_generator_py/osr_interfaces/osr_interfaces_s__rosidl_typesupport_c.so" "TARGETS" "osr_interfaces_s__rosidl_typesupport_c" "DESTINATION" "lib/python3.12/site-packages/osr_interfaces")

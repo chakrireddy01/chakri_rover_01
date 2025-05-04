@@ -1,0 +1,8 @@
+{
+  "package_name": "osr_interfaces",
+  "non_idl_tuples": [
+    "/home/chakrireddy1974/osr-rover-code/src/osr_interfaces:msg/Status.msg",
+    "/home/chakrireddy1974/osr-rover-code/src/osr_interfaces:msg/CommandDrive.msg",
+    "/home/chakrireddy1974/osr-rover-code/src/osr_interfaces:msg/CommandCorner.msg"
+  ]
+}
